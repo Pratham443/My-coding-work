@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    border-color: coral;
+}
+
+#MainH {
+    font-size: 75px;
+}
+
+#apps {
+    background-color: aliceblue;
+}
+
+#games {
+    background-color: lightcoral;
+}
+
+#art {
+    background-color: lightgoldenrodyellow;
+}
+
+#chatbots {
+    background-color: lightskyblue;
+}
+
+.subH {
+    font-size: 50px;
+}
